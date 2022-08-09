@@ -3,6 +3,10 @@ Projeto com Cypress para demonstrar como instalar um eslint com base no style ai
 
 # Para instalar o projeto
 
+Para executar o projeto e o eslint é necessário uma versão do node maior que 14, para garantir que está utilizando a versão correta, executar o seguinte comando no terminal:
+
+```nvm use 14```
+
 Executar o comando para instalar as dependências:
 
 ```npm i```
